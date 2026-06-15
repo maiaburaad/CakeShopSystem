@@ -1,0 +1,24 @@
+# Maven build output
+target/
+
+# NetBeans private files
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Java artifacts
+*.class
+*.jar
+*.war
+
+# Operating system files
+.DS_Store
+Thumbs.db
